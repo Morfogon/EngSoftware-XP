@@ -3,11 +3,11 @@
 
 requisitos : 
 
-# [ ] sacar dinheiro (selecionar valor) - ALTA
-# [ ] ver saldo do cliente - ALTA
-# [ ] inserir senha do cartao - ALTA
-# [ ] depositar - BAIXA
-# [ ] biometria - MEDIA
+## [ ] sacar dinheiro (selecionar valor) - ALTA
+## [ ] ver saldo do cliente - ALTA
+## [ ] inserir senha do cartao - ALTA
+## [ ] depositar - BAIXA
+## [ ] biometria - MEDIA
 
 - valores
 
